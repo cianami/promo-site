@@ -1,0 +1,24 @@
+.welcome-section{
+    text-align: center;
+}
+.welcome-section-main-text{
+    padding-top: 140px;
+    font-size: 98px;
+    color: white;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.welcome-section-small-text{
+    color: white;
+    font-size: 20px;
+}
+.start-btn{
+    border: 0;
+    border-radius: 36px;
+    padding: 18px 54px;
+    font-weight: 700;
+}
+.typing{
+    padding-top: 40px;
+}
+

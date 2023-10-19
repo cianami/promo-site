@@ -1,0 +1,38 @@
+.boost-traffic{
+    background: url("../../../../../assets/waves.jpg") no-repeat;
+    width: 100%;
+    background-size: cover;
+    margin-top: -100px;
+}
+.boost-header{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.boost-text{
+    font-size: 20px;
+}
+.boost-link{
+    text-decoration: none;
+    color: #ee03d9;
+    font-weight: 700;
+    font-size: 20px;
+}
+.boost-link:hover{
+    color: #d900c7;
+}
+.boost-btn{
+    padding: 18px 38px;
+    background: #ee03d9;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 40px;
+}
+.boost{
+    padding-top: 250px;
+}
+.boost-img{
+    margin-top: -80px;
+}

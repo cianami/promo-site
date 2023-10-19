@@ -1,0 +1,44 @@
+.card-btn{
+    height: 60px;
+    width: 163px;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 18px 30px;
+    background: #ee03d9;
+    color: white;
+    border: 0;
+    border-radius: 40px;
+}
+.card-circle{
+    width: 166px;
+    height: 166px;
+    top: -50px;
+    background: linear-gradient(65deg, #ff5b16, #f1c50e);
+    border-radius: 50%;
+    color: white;
+    position: relative;
+}
+.card-body{
+    background: #ffe7fd;
+    border-radius: 50px;
+}
+.card-circle-text{
+    color:white;
+}
+.card-header-text{
+    margin-top: -20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.card-description-text{
+    font-size: 20px;
+    padding: 0 10px 0 10px;
+}
+.offer-card-icon{
+    color: white;
+    font-size: 50px;
+    align-content: center;
+}
+.technologies{
+    margin-top: 25rem;
+}

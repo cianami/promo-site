@@ -1,0 +1,46 @@
+.want-to-learn{
+    background-image: linear-gradient(#ffefe8, white);
+}
+
+.learn-header-text{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 70px;
+}
+.learn-card-body{
+    background: white;
+    border-radius: 50px;
+    position: relative;
+    height: 160px;
+    padding-bottom: 25px;
+}
+.learn-card-text{
+    font-size: 18px;
+    padding: 40px 30px 0 110px;
+}
+.learn-card-name{
+    margin:20px 30px 0 70px;
+    text-align: right;
+    font-size: 20px;
+}
+.technology-circle{
+    background-position: center;
+    background-size: 150%;
+    border-radius: 50% !important;
+    background: linear-gradient(120deg ,#FD24B1, #FD4A46);
+    width: 141px;
+    height: 141px;
+    box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1);
+    margin-left: -60px;
+    margin-top: -210px;
+    position: relative;
+    display: flex;
+}
+.react-icon{
+    width: 100px;
+    height: 100px;
+}
+.js-icon{
+    padding-left: 10px;
+}

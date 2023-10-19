@@ -1,0 +1,37 @@
+.my-number{
+    background: url("../../../../../assets/vivid-waves.jpg") no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center 40%;
+    margin-top: -100px;
+    color:white;
+    height: 700px;
+}
+.computer-img{
+    margin-top: -250px;
+    resize: none;
+    max-height: 445px;
+    max-width: 692px;
+    width: 115% !important;
+    position: relative;
+}
+.my-number-header{
+    font-size: 48px;
+    font-weight: 700;
+}
+.my-number-text{
+    font-size: 18px;
+}
+.my-number-info{
+    margin-top: 150px;
+}
+.my-number-number-text{
+    font-size: 36px;
+    font-weight: 700;
+}
+.telephone{
+    margin-right: 10px;
+}
+.number{
+    padding-top: 250px;
+}

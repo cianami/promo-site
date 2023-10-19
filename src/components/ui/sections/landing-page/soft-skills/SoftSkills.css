@@ -1,0 +1,75 @@
+.soft-skills{
+    background-image: linear-gradient(#ffefe8, white);
+    padding-top: 90px;
+}
+.skills-header{
+    font-size: 48px;
+    font-weight: 700;
+}
+.skills-text{
+    font-size: 18px;
+}
+.offer-link{
+    text-decoration: none;
+    color: #ee03d9;
+    font-weight: 700;
+    font-size: 20px;
+}
+.me{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background: url("../../../../../assets/me.jpg") 25% 40%;
+    background-size: 110%;
+    margin-top: 50px;
+}
+.skills-card-body{
+    width: 460px;
+    height: 213px;
+    background: white;
+    border-radius: 40px;
+}
+.skills-card-circle{
+    width: 86px;
+    height: 86px;
+    border-radius: 50%;
+    background: #ff5b16;
+    margin-left: 30px;
+}
+.skills-card-circle-position{
+    height: 100%;
+}
+.skills-card-header{
+    font-size: 20px;
+}
+.skills-card-text{
+    font-size: 18px;
+    margin-top: 20px;
+    padding-right: 30px;
+    margin-bottom: 0;
+}
+.offer-border-card-margin{
+    margin-bottom: 35px;
+    margin-left: -30px;
+}
+.offer-middle-card-margin{
+    margin-bottom: 35px;
+    margin-left: 60px;
+}
+.soft-skills-number-text{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 30px;
+}
+.skills-card-icon{
+    font-size: 50px;
+    align-content: center;
+    text-align: center;
+    color: white;
+    line-height: 1.4;
+}
+.soft-skills-number{
+    font-size: 48px;
+    font-weight: 900;
+    color: #fc10e7;
+}

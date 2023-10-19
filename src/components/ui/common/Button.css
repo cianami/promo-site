@@ -1,0 +1,26 @@
+.btn{
+    padding: 18px 38px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 40px;
+}
+.purple-btn{
+    background: #ee03d9;
+}
+.yellow-btn{
+    background: #ffca00;
+}
+.purple-btn:hover{
+    background: #dc01c7;
+}
+.yellow-btn:hover{
+    background: #ffb600;
+}
+.purple-btn:focus{
+    background: #d900c7 !important;
+}
+.yellow-btn:focus{
+    background: #ffb600 !important;
+}
